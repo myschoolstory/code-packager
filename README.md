@@ -1,6 +1,6 @@
 # Code Packager CLI
 
-A command-line tool for packaging code into compressed archives.
+A command-line tool for packaging code into compressed archives quickly.
 
 ## Installation
 
