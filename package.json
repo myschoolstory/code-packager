@@ -1,0 +1,23 @@
+{
+  "name": "code-packager",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "bin": {
+    "code-packager": "./cli.js"
+  },
+  "scripts": {
+    "start": "node cli.js",
+    "test": "vitest"
+  },
+  "dependencies": {
+    "archiver": "^6.0.1",
+    "commander": "^11.1.0",
+    "glob": "^10.3.10",
+    "ora": "^7.0.1",
+    "chalk": "^5.3.0"
+  },
+  "devDependencies": {
+    "vitest": "^0.34.6"
+  }
+}
